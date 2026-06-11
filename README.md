@@ -42,9 +42,9 @@ When you launch the program, you will be presented with a menu showing the curre
 
 
 ## Team
+- Poorbasha Kar
 - Aditi Mohapatra
 - Avinash Sahani
-- Poorbasha Kar
 - Sk Md Rehan
 
 Guided By- Mr. Vijay Kumar Meena
